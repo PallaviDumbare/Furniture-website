@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.row.card.btn1
+{
+  display: none;
+}
+.row.card:hover .btn1
+{
+  display: block;
+  margin: auto;
+}
